@@ -1,0 +1,1 @@
+web: java -Deserver.port=$PORT -jar target/*.war
